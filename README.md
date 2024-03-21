@@ -11,4 +11,4 @@ What's truly impressive is the average age of athletes in Argentina, with women 
 
 To further explore Argentina's sporting trends and data, check out our Python analysis in this [Google Colab file](https://colab.research.google.com/drive/1thdzKph-BroBhyb8znAXsTSS17MetneM?usp=sharing).
 
-![Tableau Picture](tableau_picture_url_here)
+![Tableau Picture](pic.jpg)
